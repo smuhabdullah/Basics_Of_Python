@@ -1,3 +1,6 @@
+# Basics_Of_Python
+Every programmer has a story about how they learned to write their first program.
+
 This repository serves as both a playground and cheatsheet for Python programming. The code examples are available for modification, enabling interactive learning and testing via assertions. The repository provides the option to lint the code and verify it follows the Python code style guide, improving code quality from the start.
 
 Each Python script in the repository follows a similar structure, consisting of a descriptive comment, followed by a test function that provides examples of sub-topics related to the primary topic. Assertions accompany each example, detailing the expected function/statement output.
