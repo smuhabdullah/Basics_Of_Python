@@ -1,4 +1,4 @@
-# Basics_Of_Python
+# Learn Basics Of Python3
 Every programmer has a story about how they learned to write their first program.
 
 This repository serves as both a playground and cheatsheet for Python programming. The code examples are available for modification, enabling interactive learning and testing via assertions. The repository provides the option to lint the code and verify it follows the Python code style guide, improving code quality from the start.
