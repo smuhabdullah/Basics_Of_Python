@@ -10,7 +10,7 @@ list of comma-separated values (items) between square brackets. Lists
 might contain items of different types, but usually the items all have
 the same type.
 """
-
+<img src="https://user-images.githubusercontent.com/58034394/222954635-a5046067-44e5-4ee8-90bb-18b813c5be25.png"/>
 import pytest
 
 
